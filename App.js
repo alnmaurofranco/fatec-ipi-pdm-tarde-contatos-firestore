@@ -78,7 +78,7 @@ export default function App() {
         />
       </View>
 
-      <Text style={estilos.titulo}>Lista de Contatos</Text>
+      <Text style={styles.titulo}>Lista de Contatos</Text>
 
       <FlatList
         style={styles.container}
